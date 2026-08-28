@@ -1,4 +1,4 @@
-### Wasif Amin — Full Stack Developer | Python, React, PostgreSQL
+### Wasif Amin — Full Stack Developer | Python, Node, React, PostgreSQL
 Hi, I'm Wasif! I'm a self-taught Full stack software engineer with a strong project-based foundation in Python, JavaScript, and modern web architectures. Proven ability to independently architect, test, and deploy production-ready applications integrating relational databases, third-party REST APIs, and secure authentication pipelines. below are some projects I've built.
 
  🚀 Featured Projects
