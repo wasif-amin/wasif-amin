@@ -1,4 +1,5 @@
- 
+### Wasif Amin — Full Stack Developer | Python, React, PostgreSQL
+
  🚀 Featured Projects
 
 | Project & Description | Links |
