@@ -3,7 +3,7 @@ Hi, I'm Wasif! A  Full stack software engineer with a strong project-based found
 
  🚀 Featured Projects
 
-| Project & Description | Repository | Demo Video | Live App (Allow 1-2 minutes for servers to load) |
+| Project & Description | Repository | Demo Video | Live App (Allow 1-2 minute load time) |
 | :--- | :--- | :--- | :--- |
 | **🛍️ E-Commerce Platform**<br>Full-stack e-commerce app built with Python Flask, PostgreSQL, React, Cloudinary, and Stripe payment processing. Features session-based user carts, an admin product management dashboard, and optimized media assets migrated to Cloudinary cloud storage. | [🔗 View Repo](https://github.com/wasif-amin/ecommerce-site) | [🎥 Watch Demo](https://www.loom.com/share/961357504b694b1db851548e5cd159a7) | [🌐 Live App](https://ecommerce-site-git-main-wasif-amins-projects.vercel.app/) |
 | **📚 Book Notes**<br>Full-stack Node.js and EJS web app integrating the Open Library API to dynamically render book covers via ISBN matching. Features a responsive mobile-first UI and a custom, password-hashed admin dashboard for full CRUD data management. | [🔗 View Repo](https://github.com/wasif-amin/bookNotes) | [🎥 Watch Demo](https://www.loom.com/share/66a7f945f6e348a3b3dba16f5aab7bcb) | [🌐 Live App](https://booknotes-lj23.onrender.com) |
